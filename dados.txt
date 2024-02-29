@@ -2,7 +2,7 @@ Dados do aluno
 
 -Primeiro Nome: You know this
 -Profissão: Why would I tell you
--Cidade: Likewise
+-Cidade: Nope
 -O que faz nas horas vaga: Not if you don't pay me for that info
 -Feedback sobre o curso Qualidade de Software: Algume não sabe usar o termo "Garfada".
 -Feedback sobre a plataforma de estudo da EBAC: Meh. Não ter que voltar na página do curso para escolhar uma aula específica em um módulo seria prático.
